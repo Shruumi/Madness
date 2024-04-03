@@ -1,4 +1,4 @@
-# Madness
+# Madness Creation Wiki
 When I started madness animation there was nowhere to learn except for newgrounds, which was blocked on my computer (and for good reason,) and a really good tutorial by a guy with a name I cant pronounce. **so,** I decided to make a site dedicated to learning madness animating, and a place to share them because why not.
 
 # Funny Story!
