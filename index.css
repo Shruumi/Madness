@@ -4,3 +4,26 @@ body {
   color: white;
   font-family: "Montserrat", "sans-serif";
 }
+
+ ---margins---
+
+.margin10px {
+  margin: 10px;
+  padding: 20px;
+}
+.margin20px {
+  margin: 20px;
+  padding: 20px;
+}
+.margin30px {
+  margin: 30px;
+  padding: 20px;
+}
+.margin40px {
+  margin: 40px;
+  padding: 20px;
+}
+.margin50px {
+  margin:50px;
+  padding: 20px;
+}
